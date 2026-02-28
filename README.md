@@ -4,13 +4,11 @@ Landing page para os projetos Altaroda, Garage 777 e Roda Suplente.
 
 ## 🚀 Deploy
 
-Site disponível em: [Render](https://altaroda-landing.onrender.com)
+Site disponível em: [GitHub Pages](https://altaroda.github.io/altaroda_landing/)
 
 ## 📁 Estrutura
 
-- `index.html` - Página principal
-- `styles.css` - Estilos CSS
-- `script.js` - JavaScript para animações
+- `index.html` - Página principal (CSS e JS inline)
 - `Assets/` - Logos e imagens
 
 ## 🎨 Design
