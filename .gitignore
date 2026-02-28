@@ -1,4 +1,21 @@
-﻿~$*.docx
+﻿# Ficheiros temporários
+~$*.docx
 *.tmp
 .DS_Store
 Thumbs.db
+
+# Pastas excluídas
+Compatibilidade Jantes/
+Prints/
+Refs. 10.12.25/
+
+# Documentos internos
+Projeto Altaroda.docx
+Projeto Altaroda.pdf
+
+# Ficheiros não usados (CSS/JS inline)
+styles.css
+script.js
+
+# PDFs de logos
+Assets/Logos/*.pdf
